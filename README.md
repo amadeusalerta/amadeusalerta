@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Amadeus from Turkey<br><br>- I am working on BinanceAPI and Unity<br>- In my free time I am reading book,coding, learining new languages ,modelling etc.<br>- I know English, Turkish and Japanese.</p>
+<p align="left">I'm Amadeus from Turkey<br><br>- I am working on BinanceAPI and Unity<br>- In my free time I am reading book,coding, learining new languages ,modelling etc.<br>- I know English, Turkish and Japanese.<br>-I am also solving problems on Leetcode and Project Euler.</p>
 
 ###
 
@@ -67,5 +67,24 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=amadeusalerta&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amadeusalerta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amadeusalerta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/amadeusalerta/count.svg?"  />
+</div>
 
 ###
