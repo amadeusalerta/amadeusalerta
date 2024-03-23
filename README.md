@@ -1,10 +1,10 @@
-<div align="center">
-  <img height="450" src="http://i.imgur.com/qugmYMb.gif"  />
-</div>
+<h1 align="center">Hi 👋</h1>
 
 ###
 
-<h1 align="center">Hi 👋</h1>
+<div align="center">
+  <img height="450" src="http://i.imgur.com/qugmYMb.gif"  />
+</div>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Amadeus from Turkey<br><br>- I am working on BinanceAPI and Unity<br>- In my free time I am reading book,coding, learining new languages ,modelling etc.<br>- I know English, Turkish and Japanese.<br>-I am also solving problems on Leetcode and Project Euler.</p>
+<p align="left">I'm Amadeus from Turkey<br><br>- I am working on BinanceAPI and Unity<br>- In my free time I am reading book,coding, learining new languages ,modelling etc.<br>- I know English, Turkish and Japanese.<br>- I am also solving problems on Leetcode and Project Euler.</p>
 
 ###
 
