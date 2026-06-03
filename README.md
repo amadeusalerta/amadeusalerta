@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm from Turkey<br><br>- I am working on Java, Python, Blender and Unity<br>- In my free time I am reading book,coding, learining new languages ,modelling etc. (Former Teknofest Finalist)<br>- I know English, Turkish and Japanese.<br>- I am also solving problems on Leetcode and Project Euler. If you somehow arrived at this page and would like to see my detailed and advanced codes, please contact me using the contact informations I sent you. </p>
+<p align="left">I'm from Turkey<br><br>- I am working on C++, HLSL, Vulkan API, Blender and Unity<br>- In my free time I am reading book,coding, learining new languages ,modelling etc. (Former Teknofest Finalist)<br>- I know English, Turkish and Japanese.<br>- I am also solving problems on Leetcode and Project Euler. If you somehow arrived at this page and would like to see my detailed and advanced codes (because i keep my main project on private repositories), please contact me using the contact informations I sent you. </p>
 
 ###
 
